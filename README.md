@@ -26,8 +26,8 @@
 ![image](https://github.com/Dhanush0143/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139841924/01d8c96e-a0b9-4d1a-868f-16aed1bf9d90)
 
 
-### Name:
-### Register Number:
+### Name: DHANUSH P
+### Register Number: 23001835
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
